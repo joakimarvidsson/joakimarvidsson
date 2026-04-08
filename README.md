@@ -1,20 +1,14 @@
-# Hi, I'm Joakim 👋
+# Joakim Arvidsson
 
-I build ML systems for quantitative finance and AI-assisted trading.
+Quantitative ML engineer focused on systematic trading and data-driven research.
 
-## 🔭 Current Focus
-- Numerai Classic & Signals tournament pipelines
-- CrunchDAO research models
-- AI agent tooling & automation
+## Focus Areas
+- Tournament-grade ML pipelines for [Numerai](https://numer.ai) Classic & Signals
+- CrunchDAO research and model development
+- AI agent tooling and automation infrastructure
 
-## 🛠️ Stack
-Python · XGBoost · PyTorch · AWS · Terraform · Jupyter · Gemini CLI
+## Tech Stack
+Python · XGBoost · PyTorch · AWS · Terraform · Jupyter
 
-## 📌 Featured Projects
-- [numerai-payouts-app](https://github.com/joakimarvidsson/numerai-payouts-app) — Numerai payout tracker
-- [Numerai-Tournament](https://github.com/joakimarvidsson/Numerai-Tournament) — Feature engineering experiments
-- [aws-ndis-data-pipeline](https://github.com/joakimarvidsson/aws-ndis-data-pipeline) — AWS + Terraform data pipeline
-- [numerai_xgb_eb](https://github.com/joakimarvidsson/numerai_xgb_eb) — Low-memory XGBoost example
-
-## 📫 Contact
-[joakim.arvidsson@gmail.com](mailto:joakim.arvidsson@gmail.com)
+## Open Source
+I share selected tools and experiments publicly when they're polished and documented.
