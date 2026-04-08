@@ -1,6 +1,6 @@
 # Joakim Arvidsson
 
-Quantitative ML engineer focused on systematic trading and data-driven research.
+Data & Quantitative ML engineer focused on systematic trading and data-driven research.
 
 ## Focus Areas
 - Tournament-grade ML pipelines for [Numerai](https://numer.ai) Classic & Signals
@@ -8,7 +8,7 @@ Quantitative ML engineer focused on systematic trading and data-driven research.
 - AI agent tooling and automation infrastructure
 
 ## Tech Stack
-Python · XGBoost · PyTorch · AWS · Terraform · Jupyter
+Python · SQL · PyTorch · AWS · Terraform · Databricks · Boosted Trees · AI Agents
 
 ## Open Source
-I share selected tools and experiments publicly when they're polished and documented.
+I will share selected tools and experiments publicly once they're polished and documented.
